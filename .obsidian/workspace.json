@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "6cb05282b7a63aaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ed755ce5f67b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc50d2d8c0e28310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-CASH/Notes/Financial Terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial Terms"
+            }
+          },
+          {
+            "id": "4346088ede2d6107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-CASH/Notes/Liquidity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liquidity"
+            }
+          },
+          {
+            "id": "ed0548d4abf7f93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-CASH/Roll back to a commit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roll back to a commit"
+            }
+          },
+          {
+            "id": "ddff0e016e5a3fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-CASH/Notes/Login Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Login Details"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc61788aaea8d27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e34705f671fff7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf59262968890a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "061f9f4b86c326c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dfbb54b6f924575d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bf4ab828c005cdf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d63a724523d975a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c0d4c53d29e3623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "M-CASH/Notes/Operations Per Actor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operations Per Actor"
+            }
+          },
+          {
+            "id": "2caf60b51b79d261",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "M-CASH/Notes/Operations Per Actor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operations Per Actor"
+            }
+          },
+          {
+            "id": "6a707ce006ae2b27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfdf3105ab1c71fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c2dbc6a2d26d67c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "M-CASH/Notes/Operations Per Actor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operations Per Actor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ed0548d4abf7f93e",
+  "lastOpenFiles": [
+    "README.md",
+    "M-CASH/- INDEX.md",
+    "M-CASH/Roll back to a commit.md",
+    "M-CASH/Notes/Login Details.md",
+    "M-CASH/Notes/Actors.md",
+    "M-CASH/Notes/Internal Agent & External Agent.md",
+    "M-CASH/New branch.md",
+    "M-CASH/Notes/M-CASH — Complete High-Level System Guide.md",
+    "M-CASH/Notes/Git M-CASH.md",
+    "Other Notes/EMS - Credintials.md",
+    "M-CASH/Notes/Save without commit.md",
+    "M-CASH/Notes/Swagger.md",
+    "M-CASH/Rough.md",
+    "M-CASH/Notes/E-payroll-issue.md",
+    "M-CASH/Notes/Git Log.md",
+    "M-CASH/Notes/Check Git User.md",
+    "M-CASH/Notes/Liquidity.md",
+    "M-CASH/Notes/Replacing local with remote.md",
+    "M-CASH/Notes/Axon.md",
+    "M-CASH/Notes/Overall Money Flow Architecture.md",
+    "M-CASH/Notes/User Data.md",
+    "M-CASH/Notes/Operations Per Actor.md",
+    "M-CASH/Notes/Financial Terms.md",
+    "M-CASH/Notes/Disburse.md",
+    "M-CASH/Notes/Reconciliation.md",
+    "M-CASH/Notes/Float.md",
+    "Other Notes",
+    "M-CASH/Notes",
+    "desktop.ini",
+    "M-CASH"
+  ]
+}
