@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-CASH/Roll back to a commit.md",
+                "file": "Other Notes/EMS - Credintials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roll back to a commit"
+              "title": "EMS - Credintials"
             }
           },
           {
@@ -226,13 +226,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed0548d4abf7f93e",
+  "active": "ebf59262968890a1",
   "lastOpenFiles": [
-    "README.md",
-    "M-CASH/- INDEX.md",
-    "M-CASH/Roll back to a commit.md",
     "M-CASH/Notes/Login Details.md",
+    "M-CASH/- INDEX.md",
+    "M-CASH/Notes/How permission works.md",
     "M-CASH/Notes/Actors.md",
+    "README.md",
+    "M-CASH/Roll back to a commit.md",
     "M-CASH/Notes/Internal Agent & External Agent.md",
     "M-CASH/New branch.md",
     "M-CASH/Notes/M-CASH — Complete High-Level System Guide.md",
@@ -253,7 +254,6 @@
     "M-CASH/Notes/Financial Terms.md",
     "M-CASH/Notes/Disburse.md",
     "M-CASH/Notes/Reconciliation.md",
-    "M-CASH/Notes/Float.md",
     "Other Notes",
     "M-CASH/Notes",
     "desktop.ini",
