@@ -1,0 +1,2 @@
+- Total Work Force Paid Last Month - Total Number of employees paid last month
+- Total Amount Processed - Total of all payments salary, advance payment, incentive, stipends

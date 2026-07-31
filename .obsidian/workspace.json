@@ -4,67 +4,177 @@
     "type": "split",
     "children": [
       {
-        "id": "99ed755ce5f67b36",
+        "id": "8596bdf98e5da778",
         "type": "tabs",
         "children": [
           {
-            "id": "bc50d2d8c0e28310",
+            "id": "1368d9d699fd90ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-CASH/Notes/Financial Terms.md",
+                "file": "VIVATECH/Notes/Salary Type Into Enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial Terms"
+              "title": "Salary Type Into Enum"
             }
           },
           {
-            "id": "4346088ede2d6107",
+            "id": "9cc24500614a3e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-CASH/Notes/Liquidity.md",
+                "file": "VIVATECH/- M-CASH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liquidity"
+              "title": "- M-CASH"
             }
           },
           {
-            "id": "ed0548d4abf7f93e",
+            "id": "07d44e97eaf7e5bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Notes/EMS - Credintials.md",
+                "file": "VIVATECH/Notes/Domain Jsons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMS - Credintials"
+              "title": "Domain Jsons"
             }
           },
           {
-            "id": "ddff0e016e5a3fc8",
+            "id": "0b52f8f0a7bbf88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-CASH/Notes/Login Details.md",
+                "file": "VIVATECH/- M-CASH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Login Details"
+              "title": "- M-CASH"
+            }
+          },
+          {
+            "id": "548afc2921ed9f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- M-CASH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- M-CASH"
+            }
+          },
+          {
+            "id": "4610af76aa0d74bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- Nova Pay Multi Domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Nova Pay Multi Domain"
+            }
+          },
+          {
+            "id": "ca339db9915a649a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- Nova Pay Multi Domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Nova Pay Multi Domain"
+            }
+          },
+          {
+            "id": "aaac3f60026d8caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- M-CASH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- M-CASH"
+            }
+          },
+          {
+            "id": "6e1faccb75862a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- TIME SHEET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- TIME SHEET"
+            }
+          },
+          {
+            "id": "de963f6bd821eb60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "VIVATECH/Drawing 2026-06-12 09.04.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-12 09.04.20.excalidraw"
+            }
+          },
+          {
+            "id": "40faf3067ab95209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/Concepts/- Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Index"
+            }
+          },
+          {
+            "id": "ac2a022b314498bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/Concepts/Notes/Ways EDA Implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ways EDA Implementation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -84,7 +194,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5
   },
   "right": {
     "id": "bf4ab828c005cdf8",
@@ -223,40 +335,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ebf59262968890a1",
   "lastOpenFiles": [
-    "M-CASH/Notes/Login Details.md",
-    "M-CASH/- INDEX.md",
-    "M-CASH/Notes/How permission works.md",
-    "M-CASH/Notes/Actors.md",
-    "README.md",
-    "M-CASH/Roll back to a commit.md",
-    "M-CASH/Notes/Internal Agent & External Agent.md",
-    "M-CASH/New branch.md",
-    "M-CASH/Notes/M-CASH — Complete High-Level System Guide.md",
-    "M-CASH/Notes/Git M-CASH.md",
-    "Other Notes/EMS - Credintials.md",
-    "M-CASH/Notes/Save without commit.md",
-    "M-CASH/Notes/Swagger.md",
-    "M-CASH/Rough.md",
-    "M-CASH/Notes/E-payroll-issue.md",
-    "M-CASH/Notes/Git Log.md",
-    "M-CASH/Notes/Check Git User.md",
-    "M-CASH/Notes/Liquidity.md",
-    "M-CASH/Notes/Replacing local with remote.md",
-    "M-CASH/Notes/Axon.md",
-    "M-CASH/Notes/Overall Money Flow Architecture.md",
-    "M-CASH/Notes/User Data.md",
-    "M-CASH/Notes/Operations Per Actor.md",
-    "M-CASH/Notes/Financial Terms.md",
-    "M-CASH/Notes/Disburse.md",
-    "M-CASH/Notes/Reconciliation.md",
+    "VIVATECH/Rough.md",
+    "VIVATECH/Notes/Project Setup.md",
+    "VIVATECH/- M-CASH.md",
+    "VIVATECH/- TIME SHEET.md",
+    "VIVATECH/Notes/SQL Server Restart.md",
+    "VIVATECH/- Nova Pay Multi Domain.md",
+    "VIVATECH/TODO- 10 July Friday.md",
+    "VIVATECH/Notes/Pasted image 20260716130200.png",
+    "VIVATECH/Drawing 2026-06-12 09.04.20.excalidraw.md",
+    "VIVATECH/Notes/Pasted image 20260716130452.png",
+    "VIVATECH/Notes/Audit Flow Documentation.md",
+    "VIVATECH/Notes/Maker-Checker Flow for Subscriber Wallet Creation.md",
+    "VIVATECH/Notes/Multi-Currency Wallet Migration Plan (UUID Surrogate Key).md",
+    "VIVATECH/Notes/Understanding MDC (Mapped Diagnostic Context).md",
+    "VIVATECH/Notes/Wallet Id Generation Guide.md",
+    "VIVATECH/Notes/Run in Git Bash.md",
+    "VIVATECH/Notes/Novapay- Todo.md",
+    "VIVATECH/Notes/Completed.md",
+    "VIVATECH/Notes/Transfer Type For Commission.md",
+    "VIVATECH/Notes/12-07-2026-ClientMeeting.md",
+    "VIVATECH/Notes/Application Start In GitBash.md",
+    "VIVATECH/Notes/Maker-Checker Flow Switch Wallet Deposit & Implement Same For Disbursement.md",
+    "VIVATECH/Notes/ModelMapper Resolution for Ambitious Property Matching.md",
+    "VIVATECH/Notes/Axon Command Aggregate Update.md",
+    "VIVATECH/Notes/Domain Jsons.md",
+    "Screenshot 2026-06-12 090001.png",
+    "Screenshot 2026-06-12 085935.png",
+    "VIVATECH/Concepts/Notes/Pasted image 20260703110109.png",
+    "VIVATECH/Notes/Pasted Image 20260612090552_225.png",
+    "VIVATECH/Concepts/- Index.md",
+    "VIVATECH/Concepts/Notes/What is Event-Driven Architecture (EDA).md",
+    "VIVATECH/Untitled.canvas",
+    "Pasted image 20260612090023.png",
+    "VIVATECH/Concepts/Notes",
+    "VIVATECH/Concepts",
+    "Pasted image 20260507103340.png",
     "Other Notes",
-    "M-CASH/Notes",
+    "VIVATECH/Notes",
     "desktop.ini",
-    "M-CASH"
+    "VIVATECH"
   ]
 }

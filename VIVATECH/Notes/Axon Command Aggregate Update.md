@@ -1,0 +1,3 @@
+This class is your Axon **Command Aggregate**. In an Event Sourced system, the aggregate holds the _source of truth_ for your business state. When you handle commands (like creating or updating a domain), the aggregate is what enforces business rules, applies events, and reconstructs its own state via `@EventSourcingHandler` methods.
+
+If you don't add the fields here, your events (`DomainCreatedEvent`, `DomainUpdatedEvent`, etc.) won't be able to store or re-hydrate the currency information. Consequently, your projection/query repository side will remain completely empty for those fields.
