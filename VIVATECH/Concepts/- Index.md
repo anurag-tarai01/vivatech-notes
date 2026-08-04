@@ -7,7 +7,6 @@ https://reminiscence-react.vercel.app
 5. [[RabbitMQ]] : Detailed
 6. RabbitMQ UI
 7. Axon
-
 # SQL
 1. [[JPQL]]
 2. [[What is JPA Specification]]?

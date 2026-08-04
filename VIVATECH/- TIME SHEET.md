@@ -52,8 +52,27 @@
 3. Float Generation(Account Transfer)
 	- Resolve the wallets  of source and destination by new wallet design
 	- User can select destination wallet currency, currencies fetched from destination wallets by aggregate id. BigMoney is created using that currency. e.g. USD, XAF or SOS and attached to TransferDto.
+Now a single user hold multiple wallets. Before cross currency R&D. We have refactor all transaction one by  one. User can select currency wallet of destination wallet. Same currency transaction should work seamlessly SOS->SOS, USD->USD. Should check every single 
 
-Extras:
+4. Float generation
+5. Internal Agent Deposit
+6. Subscriber Cash in
+7. All other transaction
+## 03-08-2026
+1. Float generation
+	- Global & Local Currency Master Wallet
+	- Reporting refactored to support multi-currency report generation and filter
+	- Fixed reporting page to filter reports of Master Wallet by currency
+2. Customer care deposit
+	- Global USD transfer
+	
+## 04-08-2026
+1. Customer Care Deposit
+	- Provide drop down to select currency of destination wallet
+	- Local currency transfer
+	- Report generation
+
+
 
 > Customer Care Deposit 
 > Customer Care To Subscriber
