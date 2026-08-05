@@ -67,12 +67,26 @@ Now a single user hold multiple wallets. Before cross currency R&D. W
 	- Global USD transfer
 	
 ## 04-08-2026
-1. Customer Care Deposit
+1. Customer Care Deposit (Super Admin Portal)
 	- Provide drop down to select currency of destination wallet
-	- Local currency transfer
-	- Report generation
+	- Customer Care Deposit with multiple currency support
+	- Report generation & Notification
+## 05-08-2026
+1. transfer/all (Super Admin Portal)
+	- Issue fixed
+2. Customer Care Total Balance report (Super Admin Portal)
+	- Issue fixed
+3. Customer Care Portal
+	- Dashboard, Reports by currency, and Statements to support multi-currency wallets
+4. Retesting & Reconciliation
+	- Reconciled new wallet creation & deposit for customer care
 
+**Now**:
+- Float generation(Master Wallet Deposit)
+- Customer care deposit
+Flows migrated to new wallet design. Reporting, Reconciliation, & Notification working correctly.
 
+**Next to work on**: Subscriber Cash In(Customer care to Subscriber)
 
 > Customer Care Deposit 
 > Customer Care To Subscriber
