@@ -1,5 +1,5 @@
 
-# July 2026
+# July
 ## 23-07-2026
 1. Refactoring subscriber Cash-In(Customer care to subscriber) Transfer Flows to Support Multi-Currency Wallet Resolution
 	- `TransferRequestBodyAdvice` fix to resolve wallets before request hit controller, only support TransferDto -// Yesterday worked
@@ -58,6 +58,8 @@ Now a single user hold multiple wallets. Before cross currency R&D. W
 5. Internal Agent Deposit
 6. Subscriber Cash in
 7. All other transaction
+
+# August
 ## 03-08-2026
 1. Float generation
 	- Global & Local Currency Master Wallet
@@ -88,10 +90,39 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 
 **Next to work on**: Subscriber Cash In(Customer care to Subscriber)
 
-> Customer Care Deposit 
-> Customer Care To Subscriber
+## 06-08-2026
+1. Customer care to subscriber(Subscriber cash in)
+2. Both global and local currency transfer
+3. UI changes
+4. Report generation & Notification
+## 07-08-2026
+1. P2P Account Transfer
+2. Both global and local currency transfer(USD->USD & SOS->SOS, .....)
+3. Subscriber dashboard and reporting page to support multi currency
+4. Code Push Code
+## 10-08-2026
+Latest PR code review with Javed Sir 
+1. Subscriber Cash Out to Internal Agent
+2. Subscriber Cash Out to External Agents
+    - Account Transfer 
+    - Report Generation & Fetch
+## 11-08-2026
+1. Subscriber Cash Out[Subscriber to Agent(External)]
+	- Notification 
+2. External Agent Portal
+	- Dashboard-Multiple wallet card
+	- Agent to Subscriber Transfer
+	- Agent to Resale Agent Transfer
+	- Resale To Distributor Agent Transfer
+	- Mini statements
+	- Top 10 transactions
+
+
+>Float Generation - **Completed**
+>Customer Care Deposit - **Completed**
+> Customer Care To Subscriber - **Completed**
 > Subscriber To Subscriber - **Completed**
-> Subscriber To Customer Care
+> Subscriber To Customer Care - **P2P** - **Completed**
 > Customer Care To Agent
 > Agent to Customer Care
 
