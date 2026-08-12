@@ -101,21 +101,27 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 3. Subscriber dashboard and reporting page to support multi currency
 4. Code Push Code
 ## 10-08-2026
-Latest PR code review with Javed Sir 
-1. Subscriber Cash Out to Internal Agent
-2. Subscriber Cash Out to External Agents
+1. Latest PR code review with Javed Sir 
+2. Subscriber Cash Out to Internal Agent
+3. Subscriber Cash Out to External Agents
     - Account Transfer 
     - Report Generation & Fetch
 ## 11-08-2026
-1. Subscriber Cash Out[Subscriber to Agent(External)]
+1. Subscriber Cash Out to External Agents
 	- Notification 
 2. External Agent Portal
-	- Dashboard-Multiple wallet card
+	- Dashboard- Multiple wallet card
 	- Agent to Subscriber Transfer
 	- Agent to Resale Agent Transfer
 	- Resale To Distributor Agent Transfer
 	- Mini statements
 	- Top 10 transactions
+## 12-08-2026
+1. Merchant Outlet Local wallet implementation
+2. Merchant Dashboard
+
+
+
 
 
 >Float Generation - **Completed**
