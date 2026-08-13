@@ -117,10 +117,10 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 	- Mini statements
 	- Top 10 transactions
 ## 12-08-2026
-1. Merchant Outlet Local wallet implementation
-2. Merchant Dashboard
-
-
+1. Merchant Dashboard
+2. Outlet Local Currency wallet implementation
+## 13-08-2026
+1. Account transfer: Subscriber to outlets(Merchant)
 
 
 
@@ -129,7 +129,7 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 > Customer Care To Subscriber - **Completed**
 > Subscriber To Subscriber - **Completed**
 > Subscriber To Customer Care - **P2P** - **Completed**
-> Customer Care To Agent
+> Customer Care To Agent 
 > Agent to Customer Care
 
 enum class WalletType {  
