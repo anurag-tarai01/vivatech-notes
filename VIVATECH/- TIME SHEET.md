@@ -120,7 +120,27 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 1. Merchant Dashboard
 2. Outlet Local Currency wallet implementation
 ## 13-08-2026
-1. Account transfer: Subscriber to outlets(Merchant)
+1. Subscriber to outlets(Merchant) Transactions
+	- Single outlet 
+	- Multiple outlet
+	- Report generation
+	- Reconciliation
+## 14-08-2026
+1. Merchant & Outlet transaction Reports issue fixes
+2. Test Outlet Transaction and Reconciliation
+3. Remove dependency of currency list from properties & fetch from active domains(webclient)
+4. R&D implement new domain to the system
+
+## 17-08-2026
+1. Foreign Exchange(Forex/FX) R&D
+	 - Understanding what is FX & How its calculated
+	 - External API to get FX rate
+## 18-08-2026
+1. Foreign Exchange(Forex/FX) R&D
+2. Prepare a document for evaluation of external FX provider(Open source or Paid)
+3. Meeting with Javed Sir on FX Provider & Cross currency Account Transfer schema changes
+4. R&D of Cross Currency Account Transfer schema changes, and Transfer Flow
+
 
 
 

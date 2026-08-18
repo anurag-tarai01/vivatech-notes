@@ -125,24 +125,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIVATECH/- TIME SHEET.md",
+                "file": "VIVATECH/- Nova Pay Multi Domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- TIME SHEET"
+              "title": "- Nova Pay Multi Domain"
+            }
+          },
+          {
+            "id": "117e9126520c51b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/- Nova Pay Multi Domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Nova Pay Multi Domain"
+            }
+          },
+          {
+            "id": "96419e1c89aebc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIVATECH/Notes/Foreign exchange (Forex) Calculation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foreign exchange (Forex) Calculation"
             }
           },
           {
             "id": "de963f6bd821eb60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "VIVATECH/Drawing 2026-06-12 09.04.20.excalidraw.md"
+                "file": "VIVATECH/Notes/Open Source vs Commercial Providers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-12 09.04.20.excalidraw"
+              "icon": "lucide-file",
+              "title": "Open Source vs Commercial Providers"
             }
           },
           {
@@ -151,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIVATECH/Concepts/- Index.md",
+                "file": "VIVATECH/- TIME SHEET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Index"
+              "title": "- TIME SHEET"
             }
           },
           {
@@ -174,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -345,37 +375,37 @@
   "active": "ebf59262968890a1",
   "lastOpenFiles": [
     "VIVATECH/Rough.md",
-    "VIVATECH/- TIME SHEET.md",
-    "VIVATECH/Notes/SQL Server Restart.md",
-    "VIVATECH/- M-CASH.md",
+    "VIVATECH/Notes/FX — Draft Plan & Flow Diagram.md",
     "VIVATECH/- Nova Pay Multi Domain.md",
-    "VIVATECH/Notes/Project Setup.md",
-    "VIVATECH/Notes/Swagger.md",
-    "VIVATECH/TODO- 10 July Friday.md",
-    "VIVATECH/Drawing 2026-06-12 09.04.20.excalidraw.md",
+    "VIVATECH/- TIME SHEET.md",
     "VIVATECH/Concepts/- Index.md",
+    "VIVATECH/Notes/Open Source vs Commercial Providers.md",
+    "VIVATECH/Notes/Foreign Exchange (Forex) Engine.md",
+    "VIVATECH/Notes/Paid FX Providers — Plan Comparison & Recommendation.md",
+    "VIVATECH/- M-CASH.md",
+    "VIVATECH/Notes/Frankfurther Vs Currency API .com API Calls.md",
+    "VIVATECH/Notes/External Provider.md",
+    "Other Notes/EMS - Credintials.md",
+    "VIVATECH/Notes/FX.md",
+    "VIVATECH/Notes/Understanding MDC (Mapped Diagnostic Context).md",
+    "VIVATECH/Notes/FX & Transfer Flow.md",
+    "[Paid FX Providers — Plan Comparison & Recommendation.md",
+    "VIVATECH/Notes/Bid and Ask and Spread.md",
+    "VIVATECH/Notes/FX Fee vs FX Markup.md",
+    "VIVATECH/Notes/Market Rate vs Transaction Rate.md",
+    "VIVATECH/Notes/FX provider & MFS Impl.md",
+    "VIVATECH/Notes/FX basic Idea.md",
+    "VIVATECH/Notes/Foreign exchange (Forex) Calculation.md",
+    "VIVATECH/Notes/Define the FX Engine boundary.md",
+    "VIVATECH/Notes/Currency Api . com.md",
+    "VIVATECH/Drawing 2026-06-12 09.04.20.excalidraw.md",
+    "VIVATECH/Daily BE Sync.md",
     "VIVATECH/Notes/Pasted image 20260716130200.png",
     "VIVATECH/Notes/Pasted image 20260716130452.png",
-    "VIVATECH/Notes/Audit Flow Documentation.md",
-    "VIVATECH/Notes/Maker-Checker Flow for Subscriber Wallet Creation.md",
-    "VIVATECH/Notes/Multi-Currency Wallet Migration Plan (UUID Surrogate Key).md",
-    "VIVATECH/Notes/Understanding MDC (Mapped Diagnostic Context).md",
-    "VIVATECH/Notes/Wallet Id Generation Guide.md",
-    "VIVATECH/Notes/Run in Git Bash.md",
-    "VIVATECH/Notes/Novapay- Todo.md",
-    "VIVATECH/Notes/Completed.md",
-    "VIVATECH/Notes/Transfer Type For Commission.md",
-    "VIVATECH/Notes/12-07-2026-ClientMeeting.md",
-    "VIVATECH/Notes/Application Start In GitBash.md",
-    "VIVATECH/Notes/Maker-Checker Flow Switch Wallet Deposit & Implement Same For Disbursement.md",
-    "VIVATECH/Notes/ModelMapper Resolution for Ambitious Property Matching.md",
-    "VIVATECH/Notes/Axon Command Aggregate Update.md",
-    "VIVATECH/Notes/Domain Jsons.md",
     "Screenshot 2026-06-12 090001.png",
     "Screenshot 2026-06-12 085935.png",
     "VIVATECH/Concepts/Notes/Pasted image 20260703110109.png",
     "VIVATECH/Notes/Pasted Image 20260612090552_225.png",
-    "VIVATECH/Concepts/Notes/What is Event-Driven Architecture (EDA).md",
     "VIVATECH/Untitled.canvas",
     "Pasted image 20260612090023.png",
     "VIVATECH/Concepts/Notes",

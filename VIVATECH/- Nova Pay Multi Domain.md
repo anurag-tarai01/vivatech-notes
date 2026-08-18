@@ -9,10 +9,13 @@
 5. [[Wallet Id Generation Guide]] 
 ## Reporting
 1. [[Audit Flow Documentation]] 
-
-## Plan
+## DB Migration
 1. [[Multi-Currency Wallet Migration Plan (UUID Surrogate Key)]] 
 2. [[Maker-Checker Flow for Subscriber Wallet Creation]] 
+3. [[Multi-Domain]] 
 
+## Cross Currency Account Transfer(FX transfer)
+1. [[Foreign Exchange (Forex) Engine]] 
+2. [[FX — Draft Plan & Flow Diagram]] 
 
 
