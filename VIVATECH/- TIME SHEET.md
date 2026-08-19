@@ -137,12 +137,17 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 	 - External API to get FX rate
 ## 18-08-2026
 1. Foreign Exchange(Forex/FX) R&D
-2. Prepare a document for evaluation of external FX provider(Open source or Paid)
+2. Document for evaluation of external FX provider(Open source or Paid)
 3. Meeting with Javed Sir on FX Provider & Cross currency Account Transfer schema changes
-4. R&D of Cross Currency Account Transfer schema changes, and Transfer Flow
+4. R&D on Cross Currency Account Transfer schema changes, and Transfer Flow
+
+## 19-08-2026
+1. R&D on Implementation of Cross Currency Transfer
+2. Start Implementation - Entities for FX service
 
 
-
+# 20-08-2026
+1. Push the code of Merchant Transfer, but don't include FX
 
 >Float Generation - **Completed**
 >Customer Care Deposit - **Completed**
