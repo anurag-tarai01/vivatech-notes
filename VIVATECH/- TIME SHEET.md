@@ -130,7 +130,6 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 2. Test Outlet Transaction and Reconciliation
 3. Remove dependency of currency list from properties & fetch from active domains(webclient)
 4. R&D implement new domain to the system
-
 ## 17-08-2026
 1. Foreign Exchange(Forex/FX) R&D
 	 - Understanding what is FX & How its calculated
@@ -138,14 +137,12 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 ## 18-08-2026
 1. Foreign Exchange(Forex/FX) R&D
 2. Document for evaluation of external FX provider(Open source or Paid)
-3. Meeting with Javed Sir on FX Provider & Cross currency Account Transfer schema changes
+3. Discussion with Javed Sir on FX Provider & Cross currency Account Transfer schema changes
 4. R&D on Cross Currency Account Transfer schema changes, and Transfer Flow
-
 ## 19-08-2026
 1. R&D on Implementation of Cross Currency Transfer
-2. Start Implementation - Entities for FX service
-
-
+2. Prepare document of implementation and reviewed by Javed Sir
+3. Start Implementation - Entities for FX service
 # 20-08-2026
 1. Push the code of Merchant Transfer, but don't include FX
 
