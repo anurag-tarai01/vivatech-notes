@@ -1,4 +1,4 @@
-
+[[PREVIOUS Time sheet]]
 # July
 ## 23-07-2026
 1. Refactoring subscriber Cash-In(Customer care to subscriber) Transfer Flows to Support Multi-Currency Wallet Resolution
@@ -143,8 +143,29 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 1. R&D on Implementation of Cross Currency Transfer
 2. Prepare document of implementation and reviewed by Javed Sir
 3. Start Implementation - Entities for FX service
-# 20-08-2026
-1. Push the code of Merchant Transfer, but don't include FX
+## 20-08-2026
+1. FX Engine set up - Entities, DTOs, Repository
+2. Feign Client set up for calling external FX provider
+3. Service Layer 
+	- To Fetch The Market Rates & 
+	- To convert the amount and generate snapshots
+## 21-08-2026
+1. FX Engine Implementation (**Completed**)
+2. Testing FX Engine
+3. Refactoring P2P Transfer for cross currency(**Started**)
+## 24-08-2026
+1. Atomic Bridge Orchestration (4-Legged Logic)
+2. P2P FX transfer refactorization for FX transfer
+## 25-08-2026
+1. Subscriber mini statements refactored for FX transfer
+2. Reporting Refactorization for FX transfer
+	- refactored customer transaction report to store correct FX metadata
+	- Fixed currency mismatch issue during report retrieve
+## 27-08-2026
+1. Notification microservice refactorization for FX transfer
+2. Refactored wallet update in wallet service to publish message to RabbitMQ for MoneySubtractedEvent & MoneyAddedEvent, for all 4 legs. So, reporting to generate wallet history.
+3. Rebuild DB, And Perform P2P transactions, reconciliated reports
+
 
 >Float Generation - **Completed**
 >Customer Care Deposit - **Completed**
