@@ -1,31 +1,10 @@
-if (transfer.getFxSnapshot() != null) {  
-    dto.setFxRateSnapshotId(transfer.getFxSnapshot().getId());  
-    dto.setTargetCurrency(transfer.getFxSnapshot().getTargetCurrency());  
-    dto.setFxTargetAmount(utils.getMoney(transfer.getFxSnapshot().getEffectiveRate(), transfer.getFxSnapshot().getTargetCurrency()));  
-}
+# Life reflection
+## Process
+First what I want, and what process I talk with my brother. I am 24, next 3 month I will be 25. Anything I do or want to achieve is linked many urges, but the most strong one is to impress a beautiful girl. This is not a rule, its something I just realize. And why its not bad, actually good. I will be turn 25 next 3months, now I have no interest in marriage. But when I reach close to 30, I have to. I don't want to be alone. Also I want to exprience what it feel like when I am in love, and loved by the girl I want. I am the kind of guy who date a girl having mindset of longterm. But its comes with lots of insecurities, look, presence, what I speak, hair, height, money(only 21k/month), many more. 
+## Discussion
+Me and my brother almost have daily discussion on these topic, we are coming with new processes, ideas to improve ourself. Like sound pleasant, observation to train active mind, eye contact, be calm kind humble also can fight against wrong like RAM, it will shift your mind on self to observer the surrounding. e.g. When I am in social place if there are a beautiful girl, rich people, people who feel higher than me, I feel very down and insecure. But when follow this process like keep RAM in mind, observe. Mind shift the focus on self. Its not perfect, but I am training and trying whenever I am in this situation. When I started observation, didnt' thought that much just followed, I see when having group conversation with pg friend, I becoming more humours. I am able to crack jokes, connecting things. Another thing in weekend I will go outside, sometimes I go with PG friend, it usually at evening. But sometime I go alone, because no one there go with me. Today is sep 1. Each time have gone somewhere in weekends, it too hot outside, if not then humidity. I am sweating. And because of that my hair and face look very bad, which decrease my confidence. I have long silky thin hair, if wind then it become very bad. Also if rain. But when I am with my friend I don't care about these. Even they compliment my hair some time. What I understand is that its ok not to be perfect every time, geniune people will still appriciate. For english and sound pleasant - mimic volka(english youtuber), try to join discord, video docs, mouth muscle excercises. 
 
-01M1ATW23RE6H7G9E3MGFE6VWS
-
-100000
-
-
-Keep bigger precission for rate
-when calculate the amount, use 4 decimal
-show only 3
-[
-  {
-    "id": "01M1ATW23RE6H7G9E3MGFE6VWS",
-    "base_currency": "SOS",
-    "created_at": {
-      "$binary": {
-        "base64": "rO0ABXNyAA1qYXZhLnRpbWUuU2VylV2EuhsiSLIMAAB4cHcNAgAAAABqlOj3N19qQHg="
-      }
-    },
-    "effective_rate": 0.0017,
-    "inverse_rate": 574.2,
-    "market_rate": 0.00174155,
-    "spread_rate": 0,
-    "target_currency": "USD",
-    "exchange_rate_id": "01M1AHV9JRAS49YEBN5V619DVT"
-  }
-]
+What I am doing:
+I live in pg 3 sharing, I practice english at morning 6-6:40am in park, recenlty 4days I have not practice. Because not able to go to park. I have 9-6 office, 1.5hour extra for ready and travel. I reach pg at 6:30pm. I evening I sometime do art, I have plan to read book. Only read once. When I am walking on street, try to observer and kind like ram. Sometime in evening spend time with pg friends. I try to sleep early before 10pm because have wake up early and late night increases sexual urge, most of PMO reason is late night. Stylize everything I do, I forget this point. But when working on office, walking, anythikng I should stylize it. Like do it the coolest mindset. There is one thing I see very good progress in my art, I have invested around rs 200 on supplies for sketching its worth it. When I am in office I feel excited to think about sketching. Then I go to room, its 6:30pm, sometime talk to friend whole evening just spend time with them. Last night I go and came back to my room. Those guys are good friends of mine. But issue is that I feel. They also want me to come to their room and spend time there. But those guys are sometime just chating with their girlfriend or girl. So I decided, I can't be here everyday, it be like wasting time. What I gain just spending time there, I should limited this time. I should handle this so that those guys don't feel I am distanting myself. Like I will go, spend time, when I feel like they are busy in other stuffs, I should come back to my room to work instead of waiting for them to finish. Yesterday I have completed a sketch it turn out pretty good. Art is one thing I feel I am having progress. In three months I will be very good. But I am not able see the progress in how speak, I have improved alot since if you compare with 20year old me. But I also get comment like my accent I bad, I have a odia accent in both hindi and english. I want sound very good. Its also inlude humour, for that observation is the key. Then weekends come. I am not able to work on english that much because room is not good. I have practice that outside. So progress have been slower. I also not able to join discord. I have a book, its call Eragon a fantasy book. I have bought this to read. I have only read it once, only one page. Its also work on training my vocab, context, story telling, many more. But not able to spend time on this. Sketch is something I have been doing extraordinarly good. Even I have not thought of so fast I am able to draw like this. I have started sketching in systematic way from 11 aug 2026, today is 1 sep. 
+Coming to the point getting a beautiful girl, I have never been in relationship. If you remove the girl factor my life. Then I will be the coolest guy. But when girl factor comes, I see other guys, why she choose me over them. I am not able to talk like them, in public places they look confident, aura, way better than me. When she around me she may feel embarassed. Because of this I started to change myself. But I am not getting progress like how I get in art. I know I can progress like that. What changes I should do in my processes, so I get absolute result. Chances of getting a girl increases.
+Plan out for next 2 month sep and oct

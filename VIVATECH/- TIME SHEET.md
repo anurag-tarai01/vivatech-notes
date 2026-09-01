@@ -162,7 +162,7 @@ Flows migrated to new wallet design. Reporting, Reconciliation, & Notification w
 	- refactored customer transaction report to store correct FX metadata
 	- Fixed currency mismatch issue during report retrieve
 ## 27-08-2026
-1. Notification microservice refactorization for FX transfer - 1-2 hours, before its showing error, during fx transaction. after mvn clean and install rerun applications. Notification send correct. 
+1. Notification microservice refactorization for FX transfer 
 2. Refactored wallet update in wallet service to publish message to RabbitMQ for MoneySubtractedEvent & MoneyAddedEvent, for all 4 legs. So, reporting to generate wallet history.
 3. Rebuild DB, And Perform P2P transactions, reconciliated reports
 ## 28-08-2026
@@ -176,10 +176,16 @@ Refactored The following transfer for FX (cross currency) transaction
 3. Agent to Resale-agent (cash out)
 4. Resale agent to Dist agent (cash out)
 
-5. Dist agent to RA (cash in)
-6. RA to Agent (cash in)
-7. Customer care to External Agent
-8. Merchant Related Transactions
+# September
+
+## 1-09-2026
+External Agent Cash in
+1. Dist. agent to RA (cash in)
+2. RA to Agent (cash in)
+3. Customer care to External Agent
+
+4. customer care to ex cash in side modal(keep this for the end) in internal agent page
+5. Merchant Related Transactions(Started)
 
 
 

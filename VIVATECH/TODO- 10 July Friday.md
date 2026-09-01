@@ -1,14 +1,5 @@
-Do all these at 8am, start office early, so you have very clarity what the multi currency system
-1. Read docs provided by javed sir
-2. Prepare what to say in meeting and what kind of questions to ask in meeting
-3. The time zone study where it stay in reporting
-	 - What is GMT?
-	 - GMT vs. UTC
-	 - Where Does the "Actual" Time Zone Exist?
-	 - convertRequestTimeZone
-	 - Why the Current Code Fails for Multi-Domain / Multi-Currency
-	 - How to Update `convertRequestTimeZone` to Support Multi-Domain
-	 - Read the last conv with gemini and create a new branch from it and start
-4. Push the code
-5. Time sheet fill
-6. Prepare a docs for you, write down before and after for multi currency impl and take different scinarios: Reconciliation report, Dashboard, Wallet creation after setup write down, it will clear your doub
+# Life reflection
+## Process
+First what I want, and what process I talk with my brother. I am 24, next 3 month I will be 25. Anything I do or want to achieve is linked many urges, but the most strong one is to impress a beautiful girl. This is not a rule, its something I just realize. And why its not bad, actually good. I will be turn 25 next 3months, now I have no interest in marriage. But when I reach close to 30, I have to. I don't want to be alone. Also I want to exprience what it feel like when I am in love, and loved by the girl I want. I am the kind of guy who date a girl having mindset of longterm. But its comes with lots of insecurities, look, presence, what I speak, hair, height, money(only 21k/month), many more. 
+## Discussion
+Me and my brother almost have daily discussion on these topic, we are coming with new processes, ideas to improve ourself. Like sound pleasant, observation to train active mind, eye contact, be calm kind humble also can fight against wrong like RAM, it will shift your mind on self to observer the surrounding. e.g. When I am in social place if there are a beautiful girl, rich people, people who feel higher than me, I feel very down and insecure. But when follow this process like keep RAM in mind, observe. Mind shift the focus on self. Its not perfect, but I am training and trying whenever I am in this situation. When I started observation, didnt' thought that much just followed, I see when having group conversation with pg friend, I becoming more humours. I am able to crack jokes, connecting things. Another thing in weekend I will go outside, sometimes I go with PG friend, it usually at evening. But sometime I go in the morning. 
