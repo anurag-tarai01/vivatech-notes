@@ -183,9 +183,27 @@ External Agent Cash in
 1. Dist. agent to RA (cash in)
 2. RA to Agent (cash in)
 3. Customer care to External Agent
+4. Agent cash in(customer care to agent)
 
-4. customer care to ex cash in side modal(keep this for the end) in internal agent page
-5. Merchant Related Transactions(Started)
+## 2-09-2026
+1. Merchant cash in(customer care to merchant)
+2. Outlet payment(Subscriber to outlet)
+3. PR raised for all microservices
+
+## 3-09-2026
+1. Reporting Microservice
+	- Refactoring of the **Jasper reporting** flow to support **FX transfers across all major actors**
+	- Super admin, Subscriber, Internal Agent, External Agents
+## 4-09-2026
+1. Showing currency aggregate instead of unique wallet uulid,  both in all transfer page and report page
+2. Showing view transfer page FX amount details(sent, received amount)
+3. Fixing some bugs 
+	- Previous balance currency wrong showing
+	- Wallet history not generating for 4th leg for some transaction
+
+4. Merchant and outlet jasper report fetch and download fixes (Started still face issue)
+
+Will test the whole flow
 
 
 
