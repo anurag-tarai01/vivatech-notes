@@ -196,15 +196,16 @@ External Agent Cash in
 	- Super admin, Subscriber, Internal Agent, External Agents
 ## 4-09-2026
 1. Showing currency aggregate instead of unique wallet uulid,  both in all transfer page and report page
-2. Showing view transfer page FX amount details(sent, received amount)
-3. Fixing some bugs 
+2. Showing transfer view page FX amount details(sent, received amount)
+3. Fixing some bugs
 	- Previous balance currency wrong showing
 	- Wallet history not generating for 4th leg for some transaction
-
-4. Merchant and outlet jasper report fetch and download fixes (Started still face issue)
+## 7-09-2026
+1. Merchant and outlet transaction report download
+2. Rebuild DB & started testing whole flow and 
+	-  Done some fixes during that
 
 Will test the whole flow
-
 
 
 >Float Generation - **Completed**
@@ -212,7 +213,7 @@ Will test the whole flow
 > Customer Care To Subscriber - **Completed**
 > Subscriber To Subscriber - **Completed**
 > Subscriber To Customer Care - **P2P** - **Completed**
-> Customer Care To Agent 
+> Customer Care To Agent
 > Agent to Customer Care
 
 enum class WalletType {  

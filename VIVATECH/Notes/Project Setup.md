@@ -19,13 +19,10 @@ curl localhost:8090/setup/setup-default-core-wallet-admin-config
 curl localhost:8090/setup/switch-commission-wallet
 curl localhost:8090/setup/setup-switch-wallet-api-cost-config
 
-
-
 Step 6 : Run all the remain app, then try to login
 If login didn't work then again open the redis-cli and write command FLUSHALL and then close the CLI
 Open command prompt then execute this curl:-
 curl localhost:8090/user/update-cache
-
 
 spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=MFS_Live_Nova  
 spring.datasource.username=sa  
