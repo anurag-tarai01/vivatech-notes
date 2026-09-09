@@ -205,6 +205,17 @@ External Agent Cash in
 2. Rebuild DB & started testing whole flow and 
 	-  Done some fixes during that
 
+## 8-09-2026
+1. Refactored customer care deposit as recommended by Javed Sir.
+2. Continued testing of the whole flow of the multi-currency implementation.
+3. Fixed minor bugs there as well.
+
+## 9-09-2026
+1. Mock the flow of the remaining part of the multi-currency implementation with Javed Sir.
+2. Will point out any fixes or improvements.
+3. Then start working on those.
+
+
 Will test the whole flow
 
 
