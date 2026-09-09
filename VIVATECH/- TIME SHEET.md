@@ -211,9 +211,18 @@ External Agent Cash in
 3. Fixed minor bugs there as well.
 
 ## 9-09-2026
-1. Mock the flow of the remaining part of the multi-currency implementation with Javed Sir.
-2. Will point out any fixes or improvements.
-3. Then start working on those.
+
+I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on super admin portal. There are 6 improvement and fixes listed out, which I haved implemented last working day.
+1. NovaPay Multi-currency Demo Sync — 09-09-2026 | 10:30–11:00 AM IST with javed sir
+**Focus:** Super Admin Portal
+2. **Order of Account Balance Tab** in the Super Admin page — USD, followed by other currencies.
+3. **Remittance Report Tab** to be hidden.
+4. **All Transfers Page** — Core wallet name should be correctly resolved.
+5. **Transfer Detail** — Wallet aggregate instead of wallet ID for both sender and receiver accounts.
+6. **Internal Agent Total Balance Report** — Wallet aggregate instead of wallet ID.
+7. **Internal Agent Report Filter** — Filter using wallet aggregate ID and currency instead of wallet ID.
+## 10-09-2026
+1. Today also connect with javed sir for futher feedback of other parts of project. Will work on those fixes
 
 
 Will test the whole flow
