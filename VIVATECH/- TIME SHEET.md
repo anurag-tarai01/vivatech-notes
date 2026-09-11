@@ -222,11 +222,31 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 6. **Internal Agent Total Balance Report** — Wallet aggregate instead of wallet ID.
 7. **Internal Agent Report Filter** — Filter using wallet aggregate ID and currency instead of wallet ID.
 ## 10-09-2026
-1. Today also connect with javed sir for futher feedback of other parts of project. Will work on those fixes
+ MOM NovaPay Multi-currency Demo Sync — 10-09-2026
 
+**Participants:** ⁠Md Javed, Anurag Tarai  
+**Overview:** The demo has been successfully completed. The following fixes and action items were discussed:
 
-Will test the whole flow
+1. Subscriber cash-in (internal agent) only active wallet currency should be shown. `Done`
+2. If local currency system wallets do not exist or are not set up, the FX transaction should fail immediately instead of initiating. _(Note: This will be resolved when the separate currency table for multiple foreign currencies is implemented)
+3. Top 10 transaction should show currency aggregate instead of unique wallet id `Done`
 
+### UI changes:
+
+1. Update the terminology to use "Source Currency" and "Destination Currency" in subscriber cash in (internal agent page) `Done`
+2. transfer/all page search criteria section - there is typo in from date. And its trasnfer Id not account transfer id .  `Done`
+
+3. **Last 10 Transactions (Mini Statements):** Update the UI to format and display amounts using exactly 2 decimal digits.
+
+## 11-09-2026
+1. All feedback refactorization completed
+2. R&D on how to implement FX service charges
+3. Implemented Domain with Foreign and Local currency
+
+Next:
+1. Merge the PRs before start next work
+2. I have important point to discuss with Javed sir on fx service charge implementation
+3. Continue working on FX service charges
 
 >Float Generation - **Completed**
 >Customer Care Deposit - **Completed**
