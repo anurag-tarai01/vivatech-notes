@@ -18,5 +18,7 @@
 1. [[Foreign Exchange (Forex) Engine]] 
 2. [[FX — Draft Plan & Flow Diagram]] 
 3. [[Cross-Currency Transfer — Final Implementation Plan]] 
+4. [[5th leg points to discuss]]
+5. [[FX Commission — Leg 5 Final Implementation Plan]] 
 
 

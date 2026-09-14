@@ -240,13 +240,18 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 
 ## 11-09-2026
 1. All feedback refactorization completed
-2. R&D on how to implement FX service charges
-3. Implemented Domain with Foreign and Local currency
+2. R&D on how to implement FX service charges, few points I need to discuss with javed sir before start implementation
 
-Next:
-1. Merge the PRs before start next work
-2. I have important point to discuss with Javed sir on fx service charge implementation
-3. Continue working on FX service charges
+## 14-09-2026
+1. FX_COMMISSION admin wallet setup
+2. Implemented Foreign Exchange commission logic
+
+tomorrow:
+Rebuild the db -> fx transfer without wallet setup & config also -> fx transfer without walletsetup -> do an subscriber cash-in test with service charge setup both non-fx, fx transfer -> setup the wallet -> perform the transfer again!
+
+1. Testing of fx commission
+2. Withdraw fx amount? - Should we implement it now or next? today is 15, today I will also working the following and also fix anything important bugs if found. And on 16 we will merge the code.
+3. New domain to system.
 
 >Float Generation - **Completed**
 >Customer Care Deposit - **Completed**

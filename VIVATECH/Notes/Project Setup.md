@@ -12,6 +12,8 @@ curl localhost:8090/setup/1
 
 curl localhost:8090/setup/local-currency-wallets-so
 
+curl localhost:8090/setup/fx-commission-wallet
+
 curl localhost:8090/setup/setup-commision-profile
 curl localhost:8090/setup/setup-otp-expiry-config
 curl localhost:8090/setup/setup-default-core-wallet-admin-config
