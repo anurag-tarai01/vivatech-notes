@@ -1,6 +1,9 @@
 [[Completed]] 
 [[Novapay- Todo]] 
 [[Run in Git Bash]] 
+
+# Fixes
+
 ## Multi Domain
 1. [[Axon Command Aggregate Update]] 
 2. [[Domain Jsons]] 
