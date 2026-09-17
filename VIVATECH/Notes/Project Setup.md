@@ -10,7 +10,7 @@ C:\Users\Vivat\project\mfs-novapay\mfs-backend-new\static\
 
 curl localhost:8090/setup/1
 
-curl localhost:8090/setup/local-currency-wallets-so
+curl localhost:8090/setup/local-currency-wallets?shortName=SO
 
 curl localhost:8090/setup/fx-commission-wallet
 

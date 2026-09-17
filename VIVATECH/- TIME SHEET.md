@@ -253,7 +253,13 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 1. Testing, Reconciliation and Bug fix of Nova pay multi currency implementation
 
 ## 17-09-2026
-1. Code Review and Merging of all PRs across all 5 microservices
+1. Fix an issue subscriber to outlet payment report not generating for FX transfer
+2. Multi-domain with single foreign and local currency
+3. Local cross currency transaction & reconciliation
+
+## 18-09-2026
+1. Enhancement
+2. Other project assigned
 
 
 >Float Generation - **Completed**

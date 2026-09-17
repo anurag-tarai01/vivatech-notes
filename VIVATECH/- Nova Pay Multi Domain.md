@@ -23,5 +23,7 @@
 3. [[Cross-Currency Transfer — Final Implementation Plan]] 
 4. [[5th leg points to discuss]]
 5. [[FX Commission — Leg 5 Final Implementation Plan]] 
+## Document
+1. [[Multi currency implementation Demo video script]] 
 
 
