@@ -1,0 +1,1 @@
+Onboarding of new domain to system will be handled by backend team with use cases and acceptance criteria.

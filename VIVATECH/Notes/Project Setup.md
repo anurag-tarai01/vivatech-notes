@@ -4,15 +4,16 @@ step 3 : run the mfs backend & reporting app with ddl auto update on
 step 4 : open redis cli, run command FLUSHALL. Close the redis cli
 step 5 : run the curl commands
 
-create these folders in 
+create these folders in
 C:\Users\Vivat\project\mfs-novapay\mfs-backend-new\static\ 
 ![[Pasted image 20260703110109.png]]
 
 curl localhost:8090/setup/1
 
-curl localhost:8090/setup/local-currency-wallets?shortName=SO
+ // Nova pay - local and fx wallet setup
+> curl localhost:8090/setup/local-currency-wallets?shortName=CMR
+> curl localhost:8090/setup/fx-commission-wallet
 
-curl localhost:8090/setup/fx-commission-wallet
 
 curl localhost:8090/setup/setup-commision-profile
 curl localhost:8090/setup/setup-otp-expiry-config

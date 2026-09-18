@@ -2,7 +2,9 @@
 [[Novapay- Todo]] 
 [[Run in Git Bash]] 
 
-# Fixes
+# Project Setup
+[[Project Setup]] 
+[[New Domain Curl]] 
 
 ## Multi Domain
 1. [[Axon Command Aggregate Update]] 
@@ -10,6 +12,7 @@
 3. [[ModelMapper Resolution for Ambitious Property Matching]]
 4. [[Understanding MDC (Mapped Diagnostic Context)]] 
 5. [[Wallet Id Generation Guide]] 
+6. [[New domain to system]] 
 ## Reporting
 1. [[Audit Flow Documentation]] 
 ## DB Migration

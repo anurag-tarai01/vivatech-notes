@@ -243,11 +243,11 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 2. R&D on how to implement FX service charges, few points I need to discuss with javed sir before start implementation
 ## 14-09-2026
 1. FX_COMMISSION admin wallet setup
-2. Implemented Foreign Exchange commission logic
+2. Implemented Foreign Exchange commission logic 
 ## 15-09-2026
 1. Fx commission testing
 2. fixed some bugs there
-3. Worked on to display commission and service charge reports
+3. Worked on to display commission and service charge reports (14-18)
 
 ## 16-09-2026
 1. Testing, Reconciliation and Bug fix of Nova pay multi currency implementation
@@ -257,9 +257,17 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 2. Multi-domain with single foreign and local currency
 3. Local cross currency transaction & reconciliation
 
+
 ## 18-09-2026
-1. Enhancement
-2. Other project assigned
+1. Rebuild the DB
+2. Some minor Enhancements
+3. Demo of Novapay multi-currency and multi-domain implementation
+4. Fixed some bugs
+5. Rebuild DB and re-setup for demo
+6. Prepare demo video for multi currency and multi domain implementation
+7. Reconciliation report bug fix, fixed total account balance for subscriber cash to internal agent not updated correct
+
+Add hours when to when so in when filling timesheet fill the exact time
 
 
 >Float Generation - **Completed**
