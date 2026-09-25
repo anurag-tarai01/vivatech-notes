@@ -258,17 +258,31 @@ I gave demo of Noavapay mulit currency to javed sir, it was mainly focused on su
 3. Local cross currency transaction & reconciliation
 
 
-## 18-09-2026
+## 18-09-2026    
 1. Rebuild the DB
 2. Some minor Enhancements
-3. Demo of Novapay multi-currency and multi-domain implementation
+3. Demo of Nova pay multi-currency and multi-domain implementation
 4. Fixed some bugs
 5. Rebuild DB and re-setup for demo
 6. Prepare demo video for multi currency and multi domain implementation
 7. Reconciliation report bug fix, fixed total account balance for subscriber cash to internal agent not updated correct
 
-Add hours when to when so in when filling timesheet fill the exact time
 
+## 21-09-2026
+1. Ported the existing commission disbursement code from GPAY to Novapay.
+2. Commission Profile setup Tested
+
+## 22-09-2026
+1. Commission disbursement implementation in Novpay
+2. Faced some issue in reporting, fix that
+## 23-09-2026
+1. Setup Crowd funding backend both for telesom and hormud in the local, and go through overall project structure
+## 24-09-2026
+1. Got KT from Raghavendra & Javed Sir. 
+2. Go through the flow of CampaignDraftController
+## 25-09-2026
+1. Changes for QA & Go through code base
+2. Refactorization R&D for removing Campaign Draft
 
 >Float Generation - **Completed**
 >Customer Care Deposit - **Completed**
